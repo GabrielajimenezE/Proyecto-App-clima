@@ -1,0 +1,32 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos compilados y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caché y configuraciones locales de Streamlit
+.streamlit/secrets.toml
+
+# Configuración de editores (VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Archivos de respaldo o temporales
+*.tmp
+*.bak
+*.log
