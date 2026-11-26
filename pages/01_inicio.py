@@ -44,7 +44,6 @@ st.markdown("### 👥 Equipo de Trabajo")
 integrantes = [
     {
         "nombre": "Evelis Gabriela Jiménez Estrada",
-        "rol": "Coordinación y Administración de GitHub",
         "foto": "assets/gabriela.jpeg",
         "bio": (
             "Soy estudiante de Ingeniería Industrial de la Universidad de Antioquia. Me interesa "
@@ -57,7 +56,6 @@ integrantes = [
     },
     {
         "nombre": "Brayan Ardany Pérez Cardona",
-        "rol": "Gestión, Limpieza y Validación de Datos",
         "foto": "assets/brayan.jpeg",
         "bio": (
             "Tengo 31 años y soy estudiante de Ingeniería Industrial en la Universidad de Antioquia. "
@@ -70,7 +68,6 @@ integrantes = [
     },
     {
         "nombre": "Yeison Enrique López Mosquera",
-        "rol": "Investigación, Documentación Técnica y Pruebas",
         "foto": "assets/yeison.jpeg",
         "bio": (
             "Tengo 28 años y soy estudiante de Ingeniería Industrial de la Universidad de Antioquia. "
