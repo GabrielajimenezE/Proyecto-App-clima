@@ -16,13 +16,6 @@ Soy estudiante de Ingeniería Industrial de la Universidad de Antioquia. Me inte
 
 ---
 
-### Jhonatan Alexis Urán Serna
-<img src="assets/foto_estudiante_2.jpeg" alt="Jhonatan Alexis Urán Serna" width="140"/>
-
-Soy estudiante de Ingeniería Industrial en la Universidad de Antioquia. Me considero una persona alegre, inteligente, espontánea y con facilidad para aprender. Me caracterizo por ser responsable, detallista y comprometido con mis actividades. Tengo habilidades para el trabajo en equipo, la comunicación y el manejo de herramientas ofimáticas como Word, Excel y PowerPoint. Siempre busco dar lo mejor de mí, aprender cosas nuevas y crecer personal y profesionalmente. En el proyecto me encargo del desarrollo de la aplicación y la arquitectura interactiva.
-
----
-
 ### Brayan Ardany Pérez Cardona
 <img src="assets/foto_estudiante_3.jpeg" alt="Brayan Ardany Pérez Cardona" width="140"/>
 
