@@ -89,7 +89,6 @@ for col, persona in zip(cols, integrantes):
             else:
                 st.warning(f"No se encontró la imagen: `{persona['foto']}`")
             st.markdown(f"#### {persona['nombre']}")
-            st.caption(f"**{persona['rol']}**")
             st.write(persona["bio"])
 
 st.divider()
